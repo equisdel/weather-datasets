@@ -6,3 +6,4 @@ El enunciado completo se encuentra disponible en: [Enunciado TPE](https://docs.g
 ENLACES:
 [Notebook de Colab](https://colab.research.google.com/github/equisdel/weather-datasets/blob/main/weather_datasets.ipynb).
 [Repositorio de GitHub](https://github.com/equisdel/weather-datasets.git).
+[INFORME en Google Docs](https://docs.google.com/document/d/1gUxgupNbinQPli1F-lmpLC3kYwIAfVCVPwqv4-ciEWI/edit?usp=sharing)
