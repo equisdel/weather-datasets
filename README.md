@@ -4,5 +4,5 @@ Repositorio de los archivos implicados en el trabajo pr√°ctico especial de Teor√
 El enunciado completo se encuentra disponible en: [Enunciado TPE](https://docs.google.com/document/d/10dFDWXW1YVs3E_Q5GgkElfgxl3jvfkml_585e4tb2Mw/edit#heading=h.ffeuerkrqvie).
 
 ENLACES:
-Notebook de Colab: 
+Notebook de Colab: https://colab.research.google.com/github/equisdel/weather-datasets/blob/main/weather_datasets.ipynb
 Repositorio de GitHub: https://github.com/equisdel/weather-datasets.git
